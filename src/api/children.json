@@ -1,0 +1,34 @@
+{
+  "children": [
+    {
+      "name": "dian",
+      "gender": "Perempuan",
+      "age": "2",
+      "height": "100",
+      "weight": "15",
+      "result": "Anak tumbuh dengan normal.",
+      "tbRatio": 6.667,
+      "id": 1
+    },
+    {
+      "name": "farhan",
+      "gender": "Laki-Laki",
+      "age": "1",
+      "height": "71",
+      "weight": "20",
+      "result": "Anak tumbuh normal. Berat badan anak berlebihan.",
+      "tbRatio": 3.55,
+      "id": 2
+    },
+    {
+      "name": "doni",
+      "gender": "Laki-Laki",
+      "age": "1",
+      "height": "71",
+      "weight": "2",
+      "result": "Anak mungkin mengalami stunting. Tinggi badan anak ideal, tapi berat anak kurang.",
+      "tbRatio": 35.5,
+      "id": 3
+    }
+  ]
+}

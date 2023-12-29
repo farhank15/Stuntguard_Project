@@ -1,0 +1,20 @@
+{
+  "users": [
+    {
+      "firstName": "Ahmad farhan",
+      "lastName": "Kholik",
+      "email": "han@gmail.com",
+      "password": "han12345",
+      "token": "rv0mcnqqcc5h8cipsp64",
+      "id": 1
+    },
+    {
+      "firstName": "hana",
+      "lastName": "lala",
+      "email": "hana@gmail.com",
+      "password": "hana12345",
+      "token": "t9d2hfussar4n7k1m1fg8",
+      "id": 2
+    }
+  ]
+}
